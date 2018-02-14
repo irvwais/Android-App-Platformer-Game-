@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="D:\GameDev\_Projects\AndroidProjects\FinalProject\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.3.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="D:\GameDev\_Projects\AndroidProjects\FinalProject\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-25.3.1_fafc1aba9c0afb7082093b8442911f77ae65ff05\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\GameDev\_Projects\AndroidProjects\FinalProject\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.3.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="D:\GameDev\_Projects\AndroidProjects\FinalProject\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-25.3.1_2620fc868c67d6aeb3683ebfbbfcb0281ce3baa9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\GameDev\_Projects\AndroidProjects\FinalProject\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.3.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="D:\GameDev\_Projects\AndroidProjects\FinalProject\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-25.3.1_34206976b5b96bdca44030893ac25035051ac088\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Irving\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.3.1\support-annotations-25.3.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="D:\GameDev\_Projects\AndroidProjects\FinalProject\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.3.1_f49b92da714891137ecd397e543ca8962ad849e0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\GameDev\_Projects\AndroidProjects\FinalProject\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="cf735c2a1895010f328301cf498b571821e316ce">
+        <dex dex="D:\GameDev\_Projects\AndroidProjects\FinalProject\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_7a84f3e405650b327c2cde143cc07f3b7e169347\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\GameDev\_Projects\AndroidProjects\FinalProject\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.3.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="D:\GameDev\_Projects\AndroidProjects\FinalProject\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-25.3.1_2be594bceb36a0513e5b071bf5e6e95e715da3da\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\GameDev\_Projects\AndroidProjects\FinalProject\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.3.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="D:\GameDev\_Projects\AndroidProjects\FinalProject\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-25.3.1_0782243e4b4705972790545885230b13a2697d64\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\GameDev\_Projects\AndroidProjects\FinalProject\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.3.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="D:\GameDev\_Projects\AndroidProjects\FinalProject\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-25.3.1_7dafdd24826e3e962f0e2d600dceba56823fa967\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\GameDev\_Projects\AndroidProjects\FinalProject\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.3.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="D:\GameDev\_Projects\AndroidProjects\FinalProject\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-25.3.1_6060689a190a88b036f2cb81394d992b8f0a6f02\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\GameDev\_Projects\AndroidProjects\FinalProject\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.3.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="D:\GameDev\_Projects\AndroidProjects\FinalProject\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-25.3.1_b3d2d036b037805ad1fdf84ae0e74ae955ab7067\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\GameDev\_Projects\AndroidProjects\FinalProject\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="52c0dd87be189709c265d3d8f5452dd49ec36965">
+        <dex dex="D:\GameDev\_Projects\AndroidProjects\FinalProject\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_667ccccd2c8540d8736438edac17d7943087aa90\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\GameDev\_Projects\AndroidProjects\FinalProject\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.3.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="D:\GameDev\_Projects\AndroidProjects\FinalProject\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-25.3.1_ba5d7b026d41723408cdea1082aa013d52701b92\classes.dex" />
+    </item>
+
+</items>
