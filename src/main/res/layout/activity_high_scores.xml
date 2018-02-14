@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_high_scores"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.irving.finalproject.HighScoresActivity">
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        app:srcCompat="@drawable/bg"
+        android:layout_centerVertical="true"
+        android:layout_centerHorizontal="true"
+        android:id="@+id/imageView5"
+        android:scaleType="fitXY"/>
+
+    <Button
+        android:text="Back"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:id="@+id/buttonBack2"
+        android:onClick="onClickBack2"/>
+
+    <TextView
+        android:text="High Scores"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:id="@+id/textViewHighScore"
+        android:textSize="36sp"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/textViewHighScore"
+        android:layout_alignLeft="@+id/textViewHighScore"
+        android:layout_alignStart="@+id/textViewHighScore"
+        android:layout_marginTop="45dp"
+        android:id="@+id/textViewScore1"
+        android:textSize="24sp"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/textViewScore2"
+        android:textSize="24sp"
+        android:layout_below="@+id/textViewScore1"
+        android:layout_alignLeft="@+id/textViewScore1"
+        android:layout_alignStart="@+id/textViewScore1"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/textViewScore3"
+        android:textSize="24sp"
+        android:layout_centerVertical="true"
+        android:layout_alignLeft="@+id/textViewScore2"
+        android:layout_alignStart="@+id/textViewScore2"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/textViewScore4"
+        android:textSize="24sp"
+        android:layout_below="@+id/textViewScore3"
+        android:layout_alignLeft="@+id/textViewScore3"
+        android:layout_alignStart="@+id/textViewScore3"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/textViewScore4"
+        android:layout_alignLeft="@+id/textViewScore4"
+        android:layout_alignStart="@+id/textViewScore4"
+        android:id="@+id/textViewScore5"
+        android:textSize="24sp"/>
+
+</RelativeLayout>
